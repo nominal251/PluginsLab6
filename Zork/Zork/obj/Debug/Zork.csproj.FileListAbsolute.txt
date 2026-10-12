@@ -1,0 +1,14 @@
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\bin\Debug\Zork.exe.config
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\bin\Debug\Zork.exe
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\bin\Debug\Zork.pdb
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\obj\Debug\Zork.exe
+C:\Users\jackh\Documents\stuff\game design class\Zork\Zork\obj\Debug\Zork.pdb
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\bin\Debug\Zork.exe.config
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\bin\Debug\Zork.exe
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\bin\Debug\Zork.pdb
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\obj\Debug\Zork.csproj.AssemblyReference.cache
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\obj\Debug\Zork.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\obj\Debug\Zork.exe
+C:\Users\jackh\Documents\stuff\game design class\PluginsLab6\PluginsLab6\Zork\Zork\obj\Debug\Zork.pdb
